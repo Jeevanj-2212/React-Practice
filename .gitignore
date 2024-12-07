@@ -1,0 +1,8 @@
+# Ignore system files
+$RECYCLE.BIN/
+System Volume Information/
+
+# Ignore files in parent directories
+../devopspractice/
+../Desktop/
+../Documents/
